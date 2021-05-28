@@ -117,7 +117,7 @@ main {
 /* トップ画像(レインボー) */
 .top-image {
     position: relative;
-    background-image: url(../img/rainbow.jpg);
+    background-image: url(rainbow.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -510,7 +510,7 @@ section {
 
 /* ========== donate ========== */
 .donate-box {
-    background-image: url(../img/social-child.jpg);
+    background-image: url(social-child.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 20%;
@@ -732,7 +732,7 @@ footer {
     width: 50px;
     height: 50px;
     padding: 20px;  
-    background-image: url(../img/虫眼鏡40px.png);
+    background-image: url(虫眼鏡40px.png);
     background-repeat: no-repeat;
     background-position: 5px center;
     background-size: 40px 40px;
